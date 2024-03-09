@@ -1,0 +1,15 @@
+.image {
+    height: 300px;
+    width: auto;
+  }
+  
+  .large {
+    height: auto;
+    width: 400px; /* Adjust this value for the larger size */
+  }
+  
+  .album {
+    margin-right: 3rem;
+    margin-left: 2rem;
+  }
+  
